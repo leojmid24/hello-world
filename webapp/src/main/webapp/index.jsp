@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>New User Register for DevOps Project 1 Docker - CI/CD with Git Jenkins Ansible Kubernetes</h1>
+    <h1>New User Register for DevOps Project 1 Docker Ansible - CI/CD with Git Jenkins Ansible Kubernetes</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
@@ -16,7 +16,7 @@
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
     <br>
 
-    <label for="psw"><b>Password</b></label>
+    <label for="psw"><b>Enter Password</b></label>
     <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
     <br>
 
